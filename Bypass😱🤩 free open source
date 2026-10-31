@@ -1,4 +1,4 @@
 bypass = decode:luafiresrv("bypass") :omg:
-reach = 100 output:
+reach = 100 output:("bypass initiating reach") :omg: :omg: :omg:
 path = luadecodedecompile("fart sound") :fart:
 cert = ?
